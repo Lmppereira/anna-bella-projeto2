@@ -1,10 +1,11 @@
 body{
     background: url("arquivos-necessarios-projeto-anna-bella/fundo.png");
-    font-family: sans-serif
+    font-family: sans-serif;
+    width: 900px;
 }
+
 #menu{
     background:#F5F5DC;
-    width: 900px;
     height: 70px;
     padding-top: 20px;
 }
@@ -20,7 +21,7 @@ p{
     margin: 10px;
 }
 .conteudo{
-    width: 900px;
+
     background: #FAFAD2;
     padding-top: 20px;
     padding-bottom: 20px;
@@ -31,7 +32,7 @@ p{
     border: #F5F5DC 10px solid;
 }
 footer{
-    width: 900px;
+
     text-align: center;
     margin: 10px;
     font-weight:bold;
